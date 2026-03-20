@@ -1,5 +1,5 @@
 # multi-language-project
 This is my first Git Repository.
 <br>
-Author - Abhinav kumar
+Author - Abhinav (multi-language-project)
 
